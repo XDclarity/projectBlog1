@@ -1,0 +1,206 @@
+*
+{
+  width: 650px;
+  font-family: "微软雅黑";
+  color: #000;
+  margin-left: 50px;
+}
+
+.activities
+{
+  margin-left: 10px;
+  font-style: normal;
+  font:default;
+}
+
+.page-tt
+{
+  line-height: 200%;
+  margin: 30px 50px;
+  color: #188eee;
+}
+
+h2
+{
+  font-size: 24px;
+  line-height: 200%;
+  margin: 5px 50px;
+  padding-bottom: 0px;
+}
+
+.hr
+{
+  height:2px;
+  background:linear-gradient(to right,#188eee 0,#188eee 15%, #f5f5f5 0,#f5f5f5 100%);
+  overflow:hidden;
+}
+
+p
+{
+  font-size: 16px;
+  line-height: 180%;
+  padding: 10px;
+  text-indent: 2em;
+}
+
+.number
+{
+  font-style: monospace;
+  font-color: #999;
+  margin-left: 10px;
+}
+
+.image
+{
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #999;
+}
+
+.ps
+{
+  color: #999;
+}
+
+.link
+{
+  margin-left: 0px;
+  color: #333;
+}
+
+.hrr
+{
+  height: 2px;
+  background-color: #188eee;
+  overflow: hidden;
+}
+
+.item-time
+{
+  color: #666;
+  padding: 0px;
+}
+
+.item-user
+{
+  padding: 0px;
+  margin-left: 5px;!important
+}
+
+span
+{
+  margin: 5px;
+}
+
+a{
+  color: #188eee;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #188eee;
+  text-decoration: underline;
+}
+
+.section-comment
+{
+  border-top: 3px;
+  padding-top: 30px;
+}
+
+.form--comment
+{
+  border-top: 3px;
+  padding-top: 30px;
+}
+
+.f-textarea
+{
+  border-radius: 5px;
+  padding: 10px;
+  border-color: #dbdbdb;
+  width: 650px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  height: 100px;
+  resize: none;
+}
+
+.f-textarea:hover
+{
+  border-color: #ccc;
+  box-shadow:5px 5px 15px #ccc;
+}
+
+.f-btn
+{
+  font-size: 17px;
+  width: 100px;
+  border-radius: 8px;
+  font-weight: bold; 
+  background-color: #87CEFA;
+  margin-left: 0px;
+  margin-top: 3px;
+  margin-bottom: 5px;
+  padding: 5px;
+  color: #ffffff;
+}
+
+.f-btn:hover
+{
+  background-color: #188eee;
+  color: #ffffff;
+}
+
+.comment-hd
+{
+  font-color: 12px;
+  margin-left: 0px;
+}
+
+.comment-bd
+{
+  color: #333;
+  font-size: 14px;
+  margin-left: 0px;
+}
+
+.comment-p
+{
+  margin: 0px;!important
+  padding: 0px;
+}
+
+.comment-item
+{
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  padding: 5px;
+  font-size: 12px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.comment-hd
+{
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+
+.comment-item:hover
+{
+  box-shadow:5px 5px 10px #ccc;
+}
+
+.ft-oper1
+{
+  font-size: 12px;
+  margin-left: 520px;
+}
+
+.ft-oper2
+{
+  margin-left: 5px;
+}
